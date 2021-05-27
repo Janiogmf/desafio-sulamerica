@@ -7,5 +7,5 @@ Funcionalidade: Fluxo busca
   @done @Web
   Cenario: Validar os produtos incluidos no carrinho na tela de pagamento
     Dado que acesse o site "https://www.magazineluiza.com.br/"
-    E que realize a busca "capa iphone6"
+    E que realize a busca "iphone6"
     Entao validar retorno da busca conforme codicao
